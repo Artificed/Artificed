@@ -2,6 +2,8 @@
 
 I’m a dedicated and passionate programmer studying at Binus University. I like tackling challenges that sharpen my skills and push me to new heights.
 
+---
+
 ## 🛠️ Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -46,6 +48,8 @@ I’m a dedicated and passionate programmer studying at Binus University. I like
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
+---
+
 ## 🛠️ Tools
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Lazygit](https://img.shields.io/badge/Lazygit-FF4088?style=for-the-badge&logo=lazygit&logoColor=white)
@@ -55,9 +59,13 @@ I’m a dedicated and passionate programmer studying at Binus University. I like
 ![JetBrains IDEs](https://img.shields.io/badge/JetBrains_IDEs-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 ![Artificed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artificed&show_icons=true&theme=dark)
+
+---
 
 ## 🔥 Most Used Languages
 
