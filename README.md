@@ -1,6 +1,6 @@
-# Hi there! 👋 I'm Artificed
+# Hi there! 👋 I'm Paul
 
-I’m a dedicated and passionate programmer studying at Binus University. I like tackling challenges that sharpen my skills and push me to new heights.
+I’m a full-stack engineer building scalable software and AI-powered systems. I’m currently an <i>Assistant Development Officer</i> at BINUS University, where I work on technical programs while developing production-ready applications.
 
 ---
 
